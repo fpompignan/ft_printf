@@ -2,7 +2,7 @@
 
 42 project, recoding the famous printf function in C. Printf can write combinations of strings, numbers of different bases, even pointers, to the stdout, with various options.
 
-Final grade : 100/115
+# Final grade : 100/115
 
 Mandatory part : 100/100
 
